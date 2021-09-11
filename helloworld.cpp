@@ -6,7 +6,7 @@ int main(int argc,char **argv)
     int val2 =20;
     std::cout << "before swap:" << std::endl;
     std::cout << "val1 =" << val1 <<std:: endl;// haha
-    std::cout << "val2=" << val2 <<std:: endl;
+    std::cout << "val2=" << val2 <<std:: endl;//gaga
     swap(val1,val2);
     std::cout << "after swap:" << std::endl;
     return 0;
